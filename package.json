@@ -1,0 +1,14 @@
+{
+  "name": "motleymix-backend",
+  "version": "1.0.0",
+  "description": "Fullstack application designed to receive multiple selected genres, generate a special-tailored playlist and save it to your Spotify account. Happy mixing!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
